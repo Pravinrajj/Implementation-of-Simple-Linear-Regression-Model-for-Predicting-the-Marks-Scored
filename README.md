@@ -60,11 +60,29 @@ print("RMSE = ",rmse)
 ```
 
 ### Output:
-### Train graph
+#### df.head()
+![image](https://user-images.githubusercontent.com/117917674/229984883-f9f68e88-2ec8-4bdf-8d09-9d102c5f4852.png)
+#### df.tail()
+![image](https://user-images.githubusercontent.com/117917674/229985275-55babb21-e530-46a2-82e2-4a07b93a1349.png)
+
+#### X
+![image](https://user-images.githubusercontent.com/117917674/229985301-848bd36f-db3e-489d-9474-b12d8f9ac248.png)
+
+#### Y
+![image](https://user-images.githubusercontent.com/117917674/229985362-0b0a2cd4-9843-4718-9322-63a4be5e3be6.png)
+#### PREDICTED Y VALUES
+![image](https://user-images.githubusercontent.com/117917674/229985422-ce2ff02c-6887-4945-a9cf-344394d6d5a3.png)
+#### Actual Values
+![image](https://user-images.githubusercontent.com/117917674/229985504-c4331171-9151-4701-954b-f8dbdc36b085.png)
+
+#### Train graph
 ![image](https://user-images.githubusercontent.com/117917674/229179802-bd80aabf-beb0-4abd-9d02-26ee4c4eb4f3.png)
 
-### Test graph
+#### Test graph
 ![image](https://user-images.githubusercontent.com/117917674/229179959-71a7ec5e-7bc0-4e4c-8f24-b9578723bc91.png)
+
+#### MEAN SQUARE ERROR, MEAN ABSOLUTE ERROR AND RMSE
+![image](https://user-images.githubusercontent.com/117917674/229985751-7d989c42-7856-4598-8fcf-29f695d53572.png)
 
 ### Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
